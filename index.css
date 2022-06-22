@@ -1,0 +1,107 @@
+* {
+	margin: 0 !important;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.all{
+	font-family: Tahoma;
+}
+.container-fluid {
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+.main-pg{
+	height: 700px;
+	width: 100%;
+	background-color: white;
+	background-image: url("assets/mainbg.jpeg");
+	background-position: center;
+}
+
+.main-pg-content {
+	height: 700px;
+	display: block !important;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-pg-message {
+	height: 450px;
+	width: 500px;
+	background-color: white;
+	position: absolute;
+    left: 27%;
+    top: 15%;
+    opacity: 60%;
+    border-radius: 25px
+}
+
+.f-size-30 {
+	font-size: 35px;
+	font-family: Marker Felt;
+}
+
+.skills-title{
+	font-family: Marker Felt;
+	font-size: 40px;
+}
+
+.profile-image {
+	height: 300px;
+	width: 300px;
+	background-image: url('assets/profile.jpg');
+	background-size: cover;
+	border-radius: 225px;
+	background-position: center;
+	position: absolute;
+	left: 30%;
+    top: 27%;
+}
+
+.profile-name {
+	font-family: Marker Felt;
+}
+
+.profile-name {
+	font-size: 30px;
+	position: absolute;
+	left: 43%;
+	top: 73%;
+}
+
+.card-main{
+	background-color: #040c24 !important;
+}
+
+.expertise{
+	background-color: #040c24 !important;
+}
+
+.div-title {
+	font-family: Marker Felt;
+	font-size: 40px;
+}
+
+.expertise-pic{
+	border: 10px solid white;
+}
+
+.card-img-html{
+	height: 45%;
+	width: 60% !important;
+}
+
+.card-img-css-js{
+	height: 45%;
+	width: 50% !important;
+}
+
+footer{
+	background-color: #040c24;
+}
+
+.contact-form{
+	background-color: #040c24 !important;
+}
